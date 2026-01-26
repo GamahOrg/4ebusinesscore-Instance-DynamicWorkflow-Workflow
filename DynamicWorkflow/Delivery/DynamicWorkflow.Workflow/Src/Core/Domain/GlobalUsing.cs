@@ -1,0 +1,14 @@
+﻿global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.Text.RegularExpressions;
+global using _4EPlatform.Domain.CustomValidationInjection;
+global using _4EPlatform.Domain.Models.AssginRequestInstanceModels;
+global using _4EPlatform.Domain.Models.RequestCategoryModels;
+global using _4EPlatform.Domain.Models.RequestCategoryTypes;
+global using _4EPlatform.Domain.Models.RequestModels;
+global using _4EPlatform.Domain.Models.RequestTemplateModel;
+global using _4EPlatform.Domain.Models.RequestTemplateStepsModels;
+global using _4EPlatform.Domain.Models.RequestTransactionModels;
+global using _4EPlatform.Domain.Utilities.Enums;
+global using Domain.Enums;
+global using Domain.Models;

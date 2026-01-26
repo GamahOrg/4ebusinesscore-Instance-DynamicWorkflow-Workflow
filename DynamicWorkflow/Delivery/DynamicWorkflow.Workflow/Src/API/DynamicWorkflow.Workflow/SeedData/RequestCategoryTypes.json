@@ -1,0 +1,173 @@
+﻿[
+
+    {
+        "Id": "3D01D2AD-6486-4B06-B244-4FDD54561D88",
+        "Name": "اعتماد لجنة",
+        "FromSeed": true,
+        "RequestCategoryId": "B17261F3-577C-4A05-9895-EA3F03808E84"
+    },
+    {
+        "Id": "DA9DBA2D-4A12-4BB4-84BE-90076D4A5240",
+        "Name": "اعتماد لجنة عامة",
+        "FromSeed": true,
+        "RequestCategoryId": "B17261F3-577C-4A05-9895-EA3F03808E84"
+    },
+    {
+        "Id": "EF1AE8A4-349C-4E57-94C5-4E79051D550D",
+        "Name": "طلب خدمة جديدة",
+        "FromSeed": true,
+        "RequestCategoryId": "d6f7cc44-0fcd-4b41-af42-643f71cf3703"
+
+
+    },
+
+    {
+        "Id": "676E69A8-29C6-4A1A-B53E-9DCF2621E0E0",
+        "Name": "بلاغ خدمة حالية",
+        "FromSeed": true,
+        "RequestCategoryId": "d6f7cc44-0fcd-4b41-af42-643f71cf3703"
+
+
+    },
+    {
+        "Id": "BEE5A6F6-9063-4413-9B7A-7086FCFA5653",
+        "Name": "طلب مرفق جديد",
+        "FromSeed": true,
+        "RequestCategoryId": "568c5919-c1ad-4a0a-a133-65c498045bcd"
+
+
+    },
+    {
+        "Id": "9A162B77-3A83-44FA-BA29-AF65AF9F7198",
+        "Name": "طلب مرفق قديم",
+        "FromSeed": true,
+        "RequestCategoryId": "568c5919-c1ad-4a0a-a133-65c498045bcd"
+
+
+    },
+    {
+
+        "Id": "8CFD1B12-5E66-44EB-98C7-E4811B9959E1",
+        "Name": "طلب تواصل جديد",
+        "FromSeed": true,
+        "RequestCategoryId": "7c339b41-dc30-4dfe-ac00-e6651fd77b00"
+
+
+    },
+    {
+        "Id": "AC47B560-0CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب تواصل قديم",
+        "FromSeed": true,
+        "RequestCategoryId": "7c339b41-dc30-4dfe-ac00-e6651fd77b00"
+    },
+    {
+        "Id": "AC37B560-0CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب تغير",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "AC42B560-1CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب دراسة جدوى",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "AC24B560-2CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب تعليق",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "AC24B560-2CEA-04EC-867B-B9C0871DA94E",
+        "Name": "مشروع جديد",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "AC65B560-1CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب الغاء",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "AC83B560-1CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب دفعة",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "AC98B560-1CEA-40EC-878B-B9C0871DA59E",
+        "Name": "طلب اغلاق ",
+        "FromSeed": true,
+        "RequestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00"
+
+    },
+    {
+        "Id": "935FA558-E4A8-48B0-8B2C-2487895FE13C",
+        "Name": "طلب خدمة جديدة",
+        "FromSeed": true,
+        "RequestCategoryId": "BA2C15B3-D3CB-4165-98BC-01F1A887CC75"
+
+    },
+    {
+        "Id": "E1B7D299-30CC-47CD-85B9-06F95E127767",
+        "Name": "بلاغ خدمة حالية",
+        "FromSeed": true,
+        "RequestCategoryId": "BA2C15B3-D3CB-4165-98BC-01F1A887CC75"
+
+    },
+    {
+        "Id": "E2B7D388-30CC-47CD-85B9-06F95E127767",
+        "Name": "طلب دوره متاحة",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D2CB-2165-98BC-01F1A887CC75"
+
+    },
+    {
+        "Id": "E1B7D266-21CC-24CD-85B9-06F95E127767",
+        "Name": "طلب دوره غير  متاحة",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D2CB-2165-98BC-01F1A887CC75"
+
+    },
+    {
+        "Id": "E1B7D226-21CC-14CD-85B3-06F95E127767",
+        "Name": "تحديد الخطر",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D5CB-2165-31BC-01F1A887CC75"
+
+    },
+    {
+        "Id": "E1B7D226-23CC-14CD-35B3-06F97E127767",
+        "Name": "تقييم الخطر المتأصل",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D5CB-2165-31BC-01F1A887CC75"
+    },
+    {
+        "Id": "E1B7D226-21CC-14CD-35B3-86F97E127967",
+        "Name": "الضوابط الرقابية",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D5CB-2165-31BC-01F1A887CC75"
+    },
+    {
+        "Id": "E3B7D226-20CC-14CD-35B3-86F97E159967",
+        "Name": "تقييم الخطر المتبقى",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D5CB-2165-31BC-01F1A887CC75"
+    },
+    {
+        "Id": "E3B7D646-20CC-14CD-35B0-86F97E559967",
+        "Name": "خطط المعالجة",
+        "FromSeed": true,
+        "RequestCategoryId": "BA3C13B5-D5CB-2165-31BC-01F1A887CC75"
+    }
+
+
+]

@@ -1,0 +1,123 @@
+﻿ [
+  {
+    "id": "18561111-1111-1111-1111-3625e695af03",
+    "name": "المسار الاول",
+    "description": "وصف المسار الاول",
+    "actionOptions": 1,
+    "requestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00",
+    "parentRequestTemplateId": null,
+    "requestCategoryTypeId": "ac42b560-1cea-40ec-878b-b9c0871da59e",
+    "isClose": false,
+    "FromSeed": true,
+    "childRequestTemplates": [],
+    "requestTemplateSteps": [
+      {
+        "actionTacker": {
+          "actionTakerId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+          "type": 0,
+          "roleId": null
+        },
+        "slaId": null,
+
+        "StepNumber":1
+      }
+    ],
+    "requestInstances": []
+  },
+  {
+    "id": "22747222-2222-2222-2222-3625e695af03",
+    "name": "المسار الثاني",
+    "description": "وصف المسار الثاني",
+    "actionOptions": 1,
+    "requestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00",
+    "parentRequestTemplateId": null,
+    "requestCategoryTypeId": "ac42b560-1cea-40ec-878b-b9c0871da59e",
+    "isClose": false,
+    "FromSeed": true,
+    "childRequestTemplates": [],
+    "requestTemplateSteps": [
+      {
+        "actionTacker": {
+          "actionTakerId": "2e552f8a-7b3c-4b56-a4d8-38086bd6c840",
+          "type": 3,
+          "roleId": null
+        },
+        "slaId": null,
+
+        "StepNumber": 1
+      }
+    ],
+    "requestInstances": []
+  },
+  {
+    "id": "33325633-3333-3333-3333-3625e695af03",
+    "name": "المسار الثالث",
+    "description": "وصف المسار الثالث",
+    "actionOptions": 1,
+    "requestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00",
+    "parentRequestTemplateId": null,
+    "requestCategoryTypeId": "ac42b560-1cea-40ec-878b-b9c0871da59e",
+    "isClose": false,
+    "FromSeed": true,
+    "childRequestTemplates": [],
+    "requestTemplateSteps": [
+      {
+        "actionTacker": {
+          "actionTakerId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+          "type": 0,
+          "roleId": null
+        },
+        "slaId": null,
+
+        "StepNumber": 1
+      },
+      {
+        "actionTacker": {
+          "actionTakerId": "2e552f8a-7b3c-4b56-a4d8-38086bd6c840",
+          "type": 3,
+          "roleId": null
+        },
+        "slaId": null,
+
+        "StepNumber": 2
+      }
+    ],
+    "requestInstances": []
+  },
+  {
+    "id": "44441234-4444-4444-4444-3625e695af03",
+    "name": "المسار الرابع",
+    "description": "وصف المسار الرابع",
+    "actionOptions": 1,
+    "requestCategoryId": "7c439b41-dc30-4dfe-ac00-e6651fd77b00",
+    "parentRequestTemplateId": null,
+    "requestCategoryTypeId": "ac42b560-1cea-40ec-878b-b9c0871da59e",
+    "isClose": false,
+    "FromSeed": true,
+    "childRequestTemplates": [],
+    "requestTemplateSteps": [
+      {
+        "actionTacker": {
+          "actionTakerId": "2e552f8a-7b3c-4b56-a4d8-38086bd6c840",
+          "type": 3,
+          "roleId": null
+        },
+        "slaId": null,
+
+        "StepNumber": 1
+      },
+      {
+        "actionTacker": {
+          "actionTakerId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+          "type": 0,
+          "roleId": null
+        },
+        "slaId": null,
+
+        "StepNumber": 2
+      }
+    ],
+    "requestInstances": []
+  }
+  ]
+

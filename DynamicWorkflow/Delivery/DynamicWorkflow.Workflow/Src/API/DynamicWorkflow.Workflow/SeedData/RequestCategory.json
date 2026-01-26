@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Id": "B17261F3-577C-4A05-9895-EA3F03808E84",
+        "Name": "إدارة اللجان",
+        "NameEn": "Committees",
+        "FromSeed": true
+    },
+    {
+        "Id": "d6f7cc44-0fcd-4b41-af42-643f71cf3703",
+        "Name": "طلب دعم فنى",
+        "NameEn": "Technical Support Request",
+        "FromSeed": true
+    },
+    {
+        "Id": "568c5919-c1ad-4a0a-a133-65c498045bcd",
+        "Name": " طلب مرافق",
+        "NameEn": "Companion Request",
+        "FromSeed": true
+    },
+    {
+        "Id": "7c339b41-dc30-4dfe-ac00-e6651fd77b00",
+        "Name": "طلب تواصل",
+        "NameEn": "Contact Request",
+        "FromSeed": true
+    },
+    {
+        "Id": "7c439b41-dc30-4dfe-ac00-e6651fd77b00",
+        "Name": "اداره مشاريع",
+        "NameEn": "PMO",
+        "FromSeed": true
+    },
+    {
+        "Id": "BA2C15B3-D3CB-4165-98BC-01F1A887CC75",
+        "Name": "المنتجات الرقمية",
+        "NameEn": "Digital Products",
+        "FromSeed": true
+    },
+    {
+        "Id": "BA3C13B5-D2CB-2165-98BC-01F1A887CC75",
+        "Name": "إدارة  التدريب",
+        "NameEn": "Training",
+        "FromSeed": true
+    },
+    {
+        "Id": "BA3C13B5-D5CB-2165-31BC-01F1A887CC75",
+        "Name": "إدارة  المخاطر",
+        "NameEn": "Risk",
+        "FromSeed": true
+    }
+]
